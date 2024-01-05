@@ -1,1 +1,1 @@
-This is the Ruber Duck project.
+This is the Rubber Duck project.
